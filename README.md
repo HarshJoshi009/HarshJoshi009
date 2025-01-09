@@ -1,26 +1,18 @@
-### Hi there 👋
+# Hello there 👋
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhieWRic2wzeWZtaG52NmN0Y2Nsc3QxajI4cHZvZGxlNmt3NDNzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300"/>
-</div>
-
----
-
-### :man_technologist: About Me :
-
-I am a Machine Learning Engineer passionate about neural networks and AI systems.
+I am a Software Engineer working in Machine Learning and Research for a year. Fascinated about space.
 
 - 🔭 Currently exploring opportunities in Software Engineering and Machine Learning
-- 🌱 Love building neural networks and ML systems
-- 👯 Open to collaborate on interesting ML projects
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-YourName-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- 🌱 Enjoy building neural networks and stuff on web
+- 👯 Open to collaborate on interesting projects
 
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" title="JAVA" alt="JAVA" width="40 height="40"/>&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" title="JAVASCRIPT" alt="JS" width="40 height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
@@ -30,39 +22,35 @@ I am a Machine Learning Engineer passionate about neural networks and AI systems
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" title="DOCKER" alt="DOCKER" width="40 height="40"/>&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000" title="BASH" alt="BASH" width="40 height="40"/>&nbsp;
 </div>
+<br>
 
----
+<details>
+  <summary>Some other achievements about me</summary>
+  <br>
+  
+  <a href="https://leetcode.com/u/HarshJoshi009/"><img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FHarshJoshi009&logo=leetcode&logoColor=yellow"/></a>
+</details>
 
-### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+<hr>
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
+<p align="center">
+<a href= "https://www.linkedin.com/in/hj0/"><img src="https://img.icons8.com/?size=50&id=13930&format=png&color=000000"/></a>
+<a href= "https://x.com/HarshJoshi000"><img src="https://img.icons8.com/?size=50&id=ClbD5JTFM7FA&format=png&color=000000"/></a>
+<a href= "https://Hj.com"><img src="https://img.icons8.com/?size=50&id=ipBLdOAQ6sRn&format=png&color=000000"/></a>
+<a href="mailto:harshjoshi9523@gmail.com">
+  <img src="https://img.icons8.com/?size=50&id=tnnUFgHrPmR0&format=png&color=000000" />
+</a>
 
-### :writing_hand: Featured Projects :
+</p>
+<p align='center'>
+<a href="https://visitorbadge.io/status?path=HarshJoshi009%2FHarshJoshi009"><img src="https://api.visitorbadge.io/api/visitors?path=HarshJoshi009%2FHarshJoshi009&label=🌍 %20 Total%20Visitors&countColor=%2337d67a&style=flat&labelStyle=none" /></a>
 
-#### Neural Network Projects
-- 🧠 **[Project Name]** - Description of your neural network project
-  - Technologies used: PyTorch, NumPy, Pandas
-  - [Link to repository]
-
-#### Web Development
-- 🌐 **[Project Name]** - Description of your web development project
-  - Technologies used: React.js, FastAPI, Django
-  - [Link to repository]
-
----
-
-### 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Python     15 hrs 41 mins  ████████████░░░░░░░░  60.45%
-React      5 hrs 27 mins   ██████░░░░░░░░░░░░░░  24.21%
-FastAPI    2 hrs 13 mins   ████░░░░░░░░░░░░░░░░  10.34%
-HTML/CSS   1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░   5.00%
-```
-<!--END_SECTION:waka-->
+</p>
+<hr>
