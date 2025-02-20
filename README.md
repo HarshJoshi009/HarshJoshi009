@@ -41,7 +41,7 @@ I am a Software Engineer working in Machine Learning and Research for a year.
 
 <p align="center">
 <a href= "https://www.linkedin.com/in/hj0/"><img src="https://img.icons8.com/?size=50&id=13930&format=png&color=000000"/></a>
-<a href= "https://x.com/HarshJoshi000"><img src="https://img.icons8.com/?size=50&id=ClbD5JTFM7FA&format=png&color=000000"/></a>
+<a href= "https://x.com/@auriver0"><img src="https://img.icons8.com/?size=50&id=ClbD5JTFM7FA&format=png&color=000000"/></a>
 <a href= "https://Hj.com"><img src="https://img.icons8.com/?size=50&id=ipBLdOAQ6sRn&format=png&color=000000"/></a>
 <a href="mailto:harshjoshi9523@gmail.com">
   <img src="https://img.icons8.com/?size=50&id=tnnUFgHrPmR0&format=png&color=000000" />
