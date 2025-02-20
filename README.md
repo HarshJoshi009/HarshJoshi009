@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I am a Software Engineer working in Machine Learning and Research for a year. I code for living.
+I am a Software Engineer working in Machine Learning and Research for a year.
 
 - 🔭 Currently exploring opportunities in Software Engineering and Machine Learning
 - 🌱 Enjoy building neural networks and stuff on web
