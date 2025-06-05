@@ -47,9 +47,5 @@ I am a Software Engineer working in Machine Learning and Research for a year.
   <img src="https://img.icons8.com/?size=50&id=tnnUFgHrPmR0&format=png&color=000000" />
 </a>
 
-</p>
-<p align='center'>
-<a href="https://visitorbadge.io/status?path=HarshJoshi009%2FHarshJoshi009"><img src="https://api.visitorbadge.io/api/visitors?path=HarshJoshi009%2FHarshJoshi009&label=🌍 %20 Total%20Visitors&countColor=%2337d67a&style=flat&labelStyle=none" /></a>
 
-</p>
 <hr>
