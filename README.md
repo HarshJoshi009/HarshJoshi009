@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I am a Software Engineer working in Machine Learning and Research for a year.
+I am a Software Engineer working in Machine Learning and Research for 3 years.
 
 - 🔭 Currently exploring opportunities in Software Engineering and Machine Learning
 - 🌱 Enjoy building neural networks and stuff on web
